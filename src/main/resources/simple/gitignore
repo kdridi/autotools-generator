@@ -1,0 +1,13 @@
+Makefile
+Makefile.in
+
+*.log
+.deps
+*.exe
+*.o
+
+/.settings
+/aclocal.m4
+/autom4te.cache
+/config.status
+/configure
